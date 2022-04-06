@@ -1,10 +1,6 @@
 # MySQL
 
----
-
 ## Bài 1. Tổng quan, khái niệm về database và các thành phần trong database RDMS
-
----
 
 ### 1. Database là gì?
 
@@ -16,8 +12,6 @@
     - Bệnh nhân A đã từng bị tiền sử bệnh gì trong vòng 10 năm trước? Đã từng tiếp xúc những người nào trong thời gian Covid gần đây? ...
     - Nhân viên A còn bao lâu nữa đến thời hạn sẽ được Nâng lương/Nâng bậc?
     - ...
-
----
 
 ### 2. Tổng quan cách hình tượng từ file Excel về Database
 
@@ -44,5 +38,3 @@
   - Chúng ta có file Excel và Database dùng để lưu trữ thông tin dữ liệu bán hàng cho shop NetaShop như sau:
     ![Excel_Mapping_Database_structure-1024x561](./assets/lession1/Excel_Mapping_Database_structure-1024x561.png)
     ![Excel_Mapping_Database_structure_heidisql-1024x433](./assets/lession1/Excel_Mapping_Database_structure_heidisql-1024x433.png)
-
----
